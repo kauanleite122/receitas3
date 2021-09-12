@@ -1,0 +1,86 @@
+.caixa {
+	position: relative;
+	width:940px;
+	margin: 0 auto;
+	text-align: center;
+   
+
+}
+nav a{
+    color: black;
+	text-decoration: none;
+    font-size: 20px;
+}
+
+
+
+nav a:hover {
+	color: darkred;
+	text-decoration: underline;
+}
+
+
+body{
+
+	background: linear-gradient(#fdb2fb,#f5bdf3,#ecc8eb,#e3d1e2,#d9dbda,#cee4d2,#c2edc9);
+}
+
+h1{
+    
+	color:purple;
+	font-size: 45px
+}
+
+h2{
+
+    font-style: italic;
+	font-size: 60px;
+	margin: 1em auto;
+}
+
+img{
+    width:500px;
+	height:350px;
+	border-radius: 20px;
+}
+
+header{
+  text-align: center;
+  background: url("rosa.png");
+  padding: 50px;
+}
+
+.cabeçalho{
+
+  color: black;
+  font-size: 70px;
+  margin: 0;
+  text-shadow: 10px 10px 30px #000000;
+
+}
+
+footer {
+	background: url("bg.jpg");
+	padding: 40px ;
+}
+
+.copyright {
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 16px;
+	margin: 20px 0 0;
+}
+
+
+
+ul li {
+    display: inline-block;
+    position: relative;
+}
+
+
+nav li {
+    display: inline;
+    margin: 0 0 0 12px;
+    font-size: 20px;
+}
